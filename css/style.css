@@ -1,0 +1,13 @@
+@import url('https://font.googleapis.com/css?family=Roboto');
+
+body {
+  background: url('../gbr/bf.jpg') no-repeat center center fixed;
+  background-size : cover;
+	font-family: 'Roboto' , sans-serif;
+	
+}
+
+.container {
+	color : white ;
+}
+
